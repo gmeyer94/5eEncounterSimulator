@@ -1,0 +1,15 @@
+C:\Users\Gary\source\repos\5eEncounterSimulater\5eEncounterSimulater\obj\Debug\5eEncounterSimulater.csprojAssemblyReference.cache
+C:\Users\Gary\source\repos\5eEncounterSimulater\5eEncounterSimulater\obj\Debug\MainWindow.g.cs
+C:\Users\Gary\source\repos\5eEncounterSimulater\5eEncounterSimulater\obj\Debug\App.g.cs
+C:\Users\Gary\source\repos\5eEncounterSimulater\5eEncounterSimulater\obj\Debug\5eEncounterSimulater_MarkupCompile.cache
+C:\Users\Gary\source\repos\5eEncounterSimulater\5eEncounterSimulater\obj\Debug\5eEncounterSimulater_MarkupCompile.lref
+C:\Users\Gary\source\repos\5eEncounterSimulater\5eEncounterSimulater\bin\Debug\5eEncounterSimulater.exe.config
+C:\Users\Gary\source\repos\5eEncounterSimulater\5eEncounterSimulater\bin\Debug\5eEncounterSimulater.exe
+C:\Users\Gary\source\repos\5eEncounterSimulater\5eEncounterSimulater\bin\Debug\5eEncounterSimulater.pdb
+C:\Users\Gary\source\repos\5eEncounterSimulater\5eEncounterSimulater\obj\Debug\MainWindow.baml
+C:\Users\Gary\source\repos\5eEncounterSimulater\5eEncounterSimulater\obj\Debug\5eEncounterSimulater.g.resources
+C:\Users\Gary\source\repos\5eEncounterSimulater\5eEncounterSimulater\obj\Debug\_5eEncounterSimulater.Properties.Resources.resources
+C:\Users\Gary\source\repos\5eEncounterSimulater\5eEncounterSimulater\obj\Debug\5eEncounterSimulater.csproj.GenerateResource.cache
+C:\Users\Gary\source\repos\5eEncounterSimulater\5eEncounterSimulater\obj\Debug\5eEncounterSimulater.csproj.CoreCompileInputs.cache
+C:\Users\Gary\source\repos\5eEncounterSimulater\5eEncounterSimulater\obj\Debug\5eEncounterSimulater.exe
+C:\Users\Gary\source\repos\5eEncounterSimulater\5eEncounterSimulater\obj\Debug\5eEncounterSimulater.pdb
